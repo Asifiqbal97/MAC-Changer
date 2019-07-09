@@ -8,10 +8,10 @@ The syntax of it is.
 
 Open up the terminal and  go to the directory where mac_changer.py file is kept and type this--
                    
-  python3 mac_changer.py -i [interface name] -m [new MAC address]
+       python3 mac_changer.py -i [interface name] -m [new MAC address]
                           
-                        Or
+ OR
   
-  python3 mac_changer.py --interface [interface name] --mac [new MAC address]
+      python3 mac_changer.py --interface [interface name] --mac [new MAC address]
   
   
